@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.Views.RegistroPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame  Padding="24" CornerRadius="0">
+                <Label Text="FALCON WATCH" 
+                       HorizontalTextAlignment="Center" 
+                       TextColor="#3c72a4" 
+                       FontSize="36" 
+                       FontAttributes="Bold,Italic" />
+            </Frame>
+            <Label></Label>
+            <Entry Placeholder="ID"  
+                   Margin="20" 
+                  
+                   HeightRequest="60"
+                   Text="{Binding ID}"
+                    Style="{StaticResource Entry}"/>
+            <Entry Placeholder="Correo Electrónico"  
+                   Margin="20" 
+                  
+                   HeightRequest="60"
+                   Text="{Binding Correo}"
+                    Style="{StaticResource Entry}"/>
+            <Entry Placeholder="Contraseña" 
+                   IsPassword="True" 
+                   Margin="20" 
+                  
+                   HeightRequest="60"
+                   Text="{Binding Contrasena}"
+                    Style="{StaticResource Entry}"/>
+            <Entry Placeholder="Confirmar contraseña" 
+                   IsPassword="True" 
+                   
+                   Margin="20" 
+                   HeightRequest="60"
+                   Text="{Binding ConfirmacionContrasena}"
+                    Style="{StaticResource Entry}"/>
+
+            <Button Text="Crear cuenta"  
+                    CornerRadius="25" 
+                    BackgroundColor="#3c72a4" 
+                    HorizontalOptions="Center" 
+                    TextColor="White" 
+                    HeightRequest="60" 
+                    WidthRequest="160" 
+                    Command="{Binding RegistroCommand}"
+                     Style="{StaticResource btn}"/>
+            <Label></Label>
+            <StackLayout>
+                <Label Text="¿Ya tiene una cuenta?" 
+                       HorizontalOptions="Center" 
+                       TextColor="#3c72a4" 
+                       FontAttributes="Bold"/>
+                <Button Text = "Inicie sesión"  
+                        BackgroundColor="Transparent"  
+                        TextColor="#3c72a4" 
+                        FontAttributes="Bold" 
+                        Command="{Binding IniciarSesionCommand}"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

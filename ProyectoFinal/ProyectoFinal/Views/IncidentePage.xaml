@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.Views.IncidentePage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Label Text="Correo" />
+                <Entry x:Name="NameEntry" 
+                       Placeholder="Ingrese su Correo" 
+                       Text="{Binding Nombre }"
+                        Style="{StaticResource Entry}"/>
+
+                <Label Text="Asunto" />
+                <Entry x:Name="AsuntoEntry" 
+                       Placeholder="Ingrese un Asunto" 
+                       Text="{Binding Asunto }" 
+                        Style="{StaticResource Entry}"/>
+
+                <Label Text="Fecha" />
+                <DatePicker TextColor="Black"
+                            Date="{Binding Fecha, Mode=TwoWay}"
+                            MinimumDate="{Binding FechaActual}">
+                    <DatePicker.Format>dd/MM/yyyy</DatePicker.Format>
+                </DatePicker>
+
+                <Label Text="Hora" />
+                <TimePicker TextColor="Black"
+                            Time="{Binding Hora, Mode=TwoWay}">
+                    <TimePicker.Format>hh:mm</TimePicker.Format>
+                </TimePicker>
+
+                <Label Text="Ubicación" />
+                <Entry x:Name="UbicacionEntry" 
+                       Placeholder="Ingrese la ubicación" 
+                       Text="{Binding Ubicacion}" 
+                        Style="{StaticResource Entry}"/>
+
+                <Label Text="Categoría" />
+                <Picker x:Name="CategoriaPicker" 
+                        SelectedItem="{Binding Categoria, Mode=TwoWay}">
+                    <Picker.Items>
+                        <x:String>Seleccione una categoría</x:String>
+                        <x:String>Becas y Apoyo</x:String>
+                        <x:String>Bienestar Estudiantil</x:String>
+                        <x:String>Empleabilidad</x:String>
+                        <x:String>Facultad Académica</x:String>
+                        <x:String>Financiero</x:String>
+                        <x:String>Plataformas Tecnológicas</x:String>
+                        <x:String>Servicios Académicos</x:String>
+                        <x:String>Vida Universitaria</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Label Text="Impacto" />
+                <Picker x:Name="ImpactoPicker" 
+                        SelectedItem="{Binding Impacto, Mode=TwoWay}">
+                    <Picker.Items>
+                        <x:String>Seleccione un nivel de impacto</x:String>
+                        <x:String>Alto</x:String>
+                        <x:String>Medio</x:String>
+                        <x:String>Bajo</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Label Text="Prioridad" />
+                <Picker x:Name="PrioridadPicker" 
+                        SelectedItem="{Binding Prioridad, Mode=TwoWay}">
+                    <Picker.Items>
+                        <x:String>Seleccione una prioridad</x:String>
+                        <x:String>Alta</x:String>
+                        <x:String>Media</x:String>
+                        <x:String>Baja</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Label Text="Descripción" />
+                <Entry x:Name="DescripcionEntry" 
+                       Placeholder="Ingrese Descripción del caso" 
+                       Text="{Binding Descripcion}" 
+                        Style="{StaticResource Entry}"/>
+
+                <Button Text="Guardar"  x:Name="btnSave"
+                        Command="{Binding  GuardarCommand}" 
+                         Style="{StaticResource btn}"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

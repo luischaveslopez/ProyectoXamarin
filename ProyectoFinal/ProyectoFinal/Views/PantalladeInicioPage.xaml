@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal.Views.PantalladeInicioPage">
+    <ContentPage.Content>
+       <StackLayout>
+            <Frame BackgroundColor="Transparent">
+        <Label Text="FALCON WATCH" HorizontalTextAlignment="Center" TextColor="#3c72a4" FontSize="50" FontAttributes="Bold,Italic" />
+            </Frame>
+    
+
+            <StackLayout VerticalOptions="CenterAndExpand" Spacing="30">
+                <Button Text="Iniciar Sesión" 
+                         WidthRequest="250"
+                        HorizontalOptions="Center" 
+                        HeightRequest="60" 
+                        Command="{Binding IniciarSesionCommand}"
+                         Style="{StaticResource btn}"/>
+                <Button Text="Registo"   
+                        HorizontalOptions="Center" 
+                        HeightRequest="60" 
+                        WidthRequest="250" 
+                        Command="{Binding RegistrarseCommand}"
+                         Style="{StaticResource btn}"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

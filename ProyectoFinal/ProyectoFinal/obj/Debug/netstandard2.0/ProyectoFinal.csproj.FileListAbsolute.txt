@@ -1,0 +1,143 @@
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PantalladeInicioPage.xaml.g.cs
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\RegistroPage.xaml.g.cs
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\refint\ProyectoFinal.dll
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\IncidentePage.xaml.g.cs
+C:\RubyOnRails\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\NotificacionesPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\BusquedaPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\IncidentePage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\InicioSesionPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\NotificacionesPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PantalladeInicioPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\RegistroPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\SeguimientoPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\refint\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\BusquedaPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\IncidentePage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\InicioSesionPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\ModificarBorrarUsuarioPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\NotificacionesPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PageTabbed.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PantalladeInicioPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\RegistroPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\SeguimientoPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\VerUsuariosPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\refint\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal (3)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\BusquedaPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\IncidentePage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\InicioSesionPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\ModificarBorrarUsuarioPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\NotificacionesPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PageTabbed.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PantalladeInicioPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\RegistroPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\SeguimientoPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\VerUsuariosPage.xaml.g.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\refint\ProyectoFinal.dll
+C:\RUBY\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\refint\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\BusquedaPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\IncidentePage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\InicioSesionPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\ModificarBorrarUsuarioPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\NotificacionesPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PageTabbed.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PageTabbedAdmin.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PantalladeInicioPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\RegistroPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\SeguimientoPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\VerUsuariosPage.xaml.g.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\Users\maula\Downloads\ProyectoFinal (2)\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.deps.json
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.dll
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ref\ProyectoFinal.dll
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\bin\Debug\netstandard2.0\ProyectoFinal.pdb
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\BusquedaPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\IncidentePage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\InicioSesionPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\ModificarBorrarUsuarioPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\NotificacionesPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PageTabbed.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PageTabbedAdmin.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\PantalladeInicioPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\RegistroPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\SeguimientoPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\Views\VerUsuariosPage.xaml.g.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.AssemblyInfo.cs
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.dll
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\refint\ProyectoFinal.dll
+C:\RYR\ProyectoFinal\ProyectoFinal\ProyectoFinal\obj\Debug\netstandard2.0\ProyectoFinal.pdb

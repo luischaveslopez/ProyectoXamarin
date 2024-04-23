@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maula\\downloads\\proyectofinal (2)\\proyectofinal\\proyectofinal\\proyectofinal\\viewmodel\\verusuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\viewmodel\\verusuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maula\\downloads\\proyectofinal (2)\\proyectofinal\\proyectofinal\\proyectofinal\\viewmodel\\seguimientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\viewmodel\\seguimientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maula\\downloads\\proyectofinal (2)\\proyectofinal\\proyectofinal\\proyectofinal\\views\\seguimientopage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\seguimientopage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maula\\downloads\\proyectofinal (2)\\proyectofinal\\proyectofinal\\proyectofinal\\views\\seguimientopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\seguimientopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maula\\downloads\\proyectofinal (2)\\proyectofinal\\proyectofinal\\proyectofinal\\viewmodel\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE585F7F-2472-40D6-A389-8AFBAB78A27D}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\viewmodel\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerUsuariosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ViewModel\\VerUsuariosViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ViewModel\\VerUsuariosViewModel.cs",
+              "ToolTip": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ViewModel\\VerUsuariosViewModel.cs",
+              "RelativeToolTip": "ProyectoFinal\\ViewModel\\VerUsuariosViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:11:57.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeguimientoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\SeguimientoPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\SeguimientoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\SeguimientoPage.xaml.cs",
+              "RelativeToolTip": "ProyectoFinal\\Views\\SeguimientoPage.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:06:04.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeguimientoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\SeguimientoPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\SeguimientoPage.xaml",
+              "ToolTip": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\Views\\SeguimientoPage.xaml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\SeguimientoPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T22:03:59.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeguimientoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ViewModel\\SeguimientoViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ViewModel\\SeguimientoViewModel.cs",
+              "ToolTip": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ViewModel\\SeguimientoViewModel.cs",
+              "RelativeToolTip": "ProyectoFinal\\ViewModel\\SeguimientoViewModel.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwDMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:03:40.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ViewModel\\RegistroViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ViewModel\\RegistroViewModel.cs",
+              "ToolTip": "C:\\Users\\maula\\Downloads\\ProyectoFinal (2)\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ViewModel\\RegistroViewModel.cs",
+              "RelativeToolTip": "ProyectoFinal\\ViewModel\\RegistroViewModel.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:50:50.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
